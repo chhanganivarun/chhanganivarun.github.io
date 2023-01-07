@@ -1,0 +1,3 @@
+Youtube-Upload Privacy Policy
+
+The OAuth credentials for using the API will not be shared apart from myself, Varun Chhangani, and will be used to upload to my channels/gmail accounts only. Link for youtube uploaded videos will be stored. No personal/private data will be accessed or stored of the user via this API.
